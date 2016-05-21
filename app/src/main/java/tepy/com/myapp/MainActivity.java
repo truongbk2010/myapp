@@ -25,7 +25,6 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
-import java.util.HashMap;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
@@ -113,12 +112,9 @@ public class MainActivity extends AppCompatActivity {
                   //  dailyItem.
 
                 }else{
-                    //test to commit
-                    List anc = new ArrayList();
-                    // this for commit to other update
-                    HashMap<String, String> maps = new HashMap<>();
-                    maps.size();
-
+                    //another modify
+                    List<Integer> ad= new ArrayList<>();
+                    
 
 
 
