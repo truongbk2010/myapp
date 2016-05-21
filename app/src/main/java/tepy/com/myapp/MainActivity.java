@@ -112,9 +112,10 @@ public class MainActivity extends AppCompatActivity {
                   //  dailyItem.
 
                 }else{
-                    //another modify
-                    List<Integer> ad= new ArrayList<>();
-                    
+
+                  //test merge coomit
+                    int a=10;
+
 
 
 
