@@ -112,6 +112,10 @@ public class MainActivity extends AppCompatActivity {
                   //  dailyItem.
 
                 }else{
+                    //test to commit
+                    List anc = new ArrayList();
+
+
 
 
 
